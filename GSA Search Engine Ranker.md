@@ -1,6 +1,7 @@
   ## 1、官网地址：https://www.gsa-online.de/en/product/search_engine_ranker/
   ## 2、需要购买一次授权758港币，一个授权只能一台电脑使用（永久）
   ## 3、挂机服务器Windows，配置2H4G适用，要效率高点就开配置高点
+  ## 4、GSA工具详解思维导图：https://github.com/cow-study-notes/GSA-list/blob/main/GSA.xmind
 ### GSA Search Engine Ranker操作步骤
 ![image](https://github.com/cow-study-notes/GSA-list/assets/105910804/fd5ebb61-944b-4124-91ff-b73d896c9fd1)
 ![image](https://github.com/cow-study-notes/GSA-list/assets/105910804/89b537b6-8e80-4a2e-b65d-644613fded48)
